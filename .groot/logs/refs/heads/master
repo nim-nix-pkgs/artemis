@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 4e56b7790d005a029643925200422bd75bd51b66 hugosenari <hugosenari@gmail.com> 1656278157 -0300	clone: from github.com:nim-nix-pkgs/artemis.git
+4e56b7790d005a029643925200422bd75bd51b66 2c0aace39e4e7d9d11d815cf21cd9aaf2afb120c hugosenari <hugosenari@gmail.com> 1656741026 -0300	commit: chore: re index artemis
+2c0aace39e4e7d9d11d815cf21cd9aaf2afb120c 7389fa9b5fbd90ecdfb715e9d9a8d0cd28d05038 hugosenari <hugosenari@gmail.com> 1656741947 -0300	commit: feat(nimpkgs): update lock
